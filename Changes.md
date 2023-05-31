@@ -1,4 +1,4 @@
-WIP  TBD
+v0.0.2  2023-05-30
 
  * Testing release.
 
