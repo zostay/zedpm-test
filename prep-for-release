@@ -1,0 +1,15 @@
+#!/bin/zsh
+
+cat <<END_OF_WIP > Changes.md.new
+WIP  TBD
+
+ * Prepared for release.
+
+END_OF_WIP
+
+cat Changes.md >> Changes.md.new
+
+mv Changes.md.new Changes.md
+git add Changes.md
+git commit -m changes
+git push
