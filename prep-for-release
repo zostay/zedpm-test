@@ -1,5 +1,7 @@
 #!/bin/zsh
 
+git pull
+
 cat <<END_OF_WIP > Changes.md.new
 WIP  TBD
 
