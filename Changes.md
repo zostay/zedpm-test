@@ -1,5 +1,9 @@
 v0.0.6  2023-06-10
 
+ * Prepared for release.
+
+WIP  TBD
+
  * Testing release.
 
 v0.0.5  2023-05-31
